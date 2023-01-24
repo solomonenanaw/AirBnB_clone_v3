@@ -156,6 +156,5 @@ No known bugs at this time.
 ## Authors
 Solomon Enanaw - [Github](https://github.com/solomonenanaw)  
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
