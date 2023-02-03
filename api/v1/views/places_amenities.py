@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 """places_amenities.py"""
 import os
 from api.v1.views import app_views
